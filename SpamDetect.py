@@ -71,7 +71,6 @@ def main():
         st.header("📑 About")
         st.write("This app uses a Machine Learning model to classify emails as spam or not spam.")
         st.write("Enter an email and click **Classify** to see the result.")
-        st.write("For more details, contact the developer.")
     
     # Header
     st.markdown("<h1 class='main-title'>Email Spam Classifier</h1>", unsafe_allow_html=True)
@@ -110,7 +109,7 @@ def main():
 
     # Footer
     st.markdown(
-        "<div class='footer'>Developed by [Your Name] • Powered by Streamlit</div>",
+        "<div class='footer'>Developed by Srujana H B • Powered by Streamlit</div>",
         unsafe_allow_html=True,
     )
 
