@@ -37,6 +37,12 @@ This project uses **Natural Language Processing (NLP)** and **Machine Learning**
 Run the app with the following command:
 ```
 streamlit run SpamDetect.py
+```
 
+---
 
+## Result Images
 
+![Spam email classification result](result%20img/newres.png)
+
+![Streamlit spam detector screenshot](result%20img/Screenshot%202024-12-10%20155240.png)
